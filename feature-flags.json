@@ -1,4 +1,10 @@
-{
-    "softUpdate": "false",
-    "forceUpdate": "false"
-}
+[
+    {
+        "feature": "softUpdate",
+        "isActive": "true"
+    },
+    {
+        "feature": "forceUpdate",
+        "isActive": "true"
+    }
+]
