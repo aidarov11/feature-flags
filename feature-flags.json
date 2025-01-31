@@ -1,10 +1,10 @@
 [
     {
         "feature": "softUpdate",
-        "isActive": "true"
+        "isActive": true
     },
     {
         "feature": "forceUpdate",
-        "isActive": "true"
+        "isActive": true
     }
 ]
