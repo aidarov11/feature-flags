@@ -6,5 +6,9 @@
     {
         "feature": "forceUpdate",
         "isActive": true
+    },
+    {
+        "feature": "test",
+        "isActive": "true"
     }
 ]
